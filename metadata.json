@@ -1,0 +1,6 @@
+{
+  "name": "Hendy Vietsub",
+  "description": "Công cụ tạo phụ đề video chuyên nghiệp, hiệu ứng chữ Karaoke từng từ, nhận diện giọng nói và chỉnh sửa timeline đa lớp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

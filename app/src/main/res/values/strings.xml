@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hendy Vietsub</string>
+    <string name="studio_tagline">Tạo Phụ Đề Video &amp; Hiệu Ứng Karaoke Chuyên Nghiệp</string>
+    <string name="tab_timeline">Timeline</string>
+    <string name="tab_batch">Bản thảo</string>
+    <string name="tab_style">Kiểu chữ</string>
+    <string name="tab_animate">Hiệu ứng</string>
+    <string name="tab_export">Xuất file</string>
+    <string name="action_new_project">Dự án mới</string>
+    <string name="action_import_video">Tải Video từ máy</string>
+    <string name="action_import_srt">Nhập SRT / VTT</string>
+    <string name="action_voice_dictate">Nhận diện giọng nói</string>
+    <string name="action_smart_script">Tự động căn giờ kịch bản</string>
+    <string name="action_split">Tách câu</string>
+    <string name="action_merge">Gộp câu kế</string>
+    <string name="action_add_caption">Thêm câu</string>
+    <string name="action_duplicate">Nhân bản</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_export_file">Lưu file về máy</string>
+    <string name="action_share_script">Chia sẻ phụ đề</string>
+    <string name="action_copy_clipboard">Sao chép bộ nhớ tạm</string>
+    <string name="cd_play_pause">Phát hoặc tạm dừng timeline</string>
+    <string name="cd_back_projects">Quay lại danh sách dự án</string>
+    <string name="cd_safe_zones">Bật/tắt khung vùng an toàn mạng xã hội</string>
+    <string name="cd_aspect_ratio">Đổi tỷ lệ khung hình</string>
+</resources>
